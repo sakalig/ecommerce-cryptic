@@ -3,7 +3,8 @@ const { SpeedInsights } = require("@vercel/speed-insights/vue");
 <script setup lang="ts">
 import { getPrefix } from "./i18n/src/helpers/prefix";
 import type { Schemas } from "#shopware";
-import { SpeedInsights } from '@vercel/speedinsights/vue'
+//import { SpeedInsights } from '@vercel/speedinsights/vue'
+import { SpeedInsights } from "@vercel/speedinsights/nuxt";
 
 /**
  * Init breadcrumbs context
