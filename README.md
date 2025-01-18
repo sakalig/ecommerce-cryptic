@@ -1,6 +1,6 @@
-# Nuxt
+# E-commerce Cryptic
 
-![E-commerce Cryptic](.assets/shopware-frontends-logo.png)
+<!--![E-commerce Cryptic](.assets/shopware-frontends-logo.png)-->
 
 Inspired by Nuxt 3 & Shopware Frontends Framework.
 
