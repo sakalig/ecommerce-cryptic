@@ -1,16 +1,18 @@
-# Demo template (Nuxt)
+# Nuxt
 
-![Shopware Frontends](.assets/shopware-frontends-logo.png)
+![E-commerce Cryptic](.assets/shopware-frontends-logo.png)
 
-This repository is an example demo application built with Shopware Frontends Framework and Nuxt 3.
+Inspired by Nuxt 3 & Shopware Frontends Framework.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/shopware/frontends/tree/main/templates/vue-demo-store)
+<!--[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/shopware/frontends/tree/main/templates/vue-demo-store)-->
 
+<!--
 ## What's inside
 
 - Nuxt 3 application
 - Required libraries (API client, CMS components, composables, Nuxt 3 module)
 - Pre-configured demo Shopware 6 API
+-->
 
 ## Requirements
 
