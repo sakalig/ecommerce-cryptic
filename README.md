@@ -16,9 +16,9 @@ Inspired by Nuxt 3 & Shopware Frontends Framework.
 
 ## Components
 
-- [] Authentication system [User-side]
-- [] Inventory system [Admin-side]
-- [] Currency system [Admin-side]
+- [ ] Authentication system [User-side]
+- [ ] Inventory system [Admin-side]
+- [ ] Currency system [Admin-side]
 
 ## Requirements
 
