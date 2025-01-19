@@ -14,6 +14,12 @@ Inspired by Nuxt 3 & Shopware Frontends Framework.
 - Pre-configured demo Shopware 6 API
 -->
 
+## Components
+
+- [] Authentication system [User-side]
+- [] Inventory system [Admin-side]
+- [] Currency system [Admin-side]
+
 ## Requirements
 
 Go to [Documentation > Requirements](https://frontends.shopware.com/framework/requirements.html) to see the details.
