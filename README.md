@@ -14,8 +14,13 @@ Inspired by Nuxt 3 & Shopware Frontends Framework.
 - Pre-configured demo Shopware 6 API
 -->
 
-## Components
+## System Design
 
+# Backend
+
+- [ ] Agentic system [General Backend]
+- [ ] Recommender system [Backend]
+- [ ] Dynamic cart system [Backend & User-side]
 - [ ] Authentication system [User-side]
 - [ ] Inventory system [Admin-side]
 - [ ] Currency system [Admin-side]
