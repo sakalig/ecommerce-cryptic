@@ -31,6 +31,7 @@ Inspired by Nuxt 3 & Shopware Frontends Framework.
 nuxt prepare && nuxt dev
 ```
 
+<!--
 ## Requirements
 
 Go to [Documentation > Requirements](https://frontends.shopware.com/framework/requirements.html) to see the details.
@@ -114,3 +115,4 @@ docker run -p3000:3000 vue-demo-store
 
 More information on generating different outputs can be found [here](https://nitro.unjs.io/deploy).
 Our recommendation is to use `.env` file for changing platform presets
+-->
