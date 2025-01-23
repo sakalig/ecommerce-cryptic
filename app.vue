@@ -125,7 +125,7 @@ onMounted(() => {
 
 <template>
   <NuxtLayout>
-    <NuxtPage />
+    <!-- <NuxtPage /> -->
   </NuxtLayout>
   <!--<SpeedInsights />-->
 </template>
