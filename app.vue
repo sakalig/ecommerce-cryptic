@@ -10,8 +10,8 @@ import type { Schemas } from "#shopware";
 useBreadcrumbs();
 
 useHead({
-  title: "Shopware Demo store",
-  meta: [{ name: "description", content: "Shopware Demo store" }],
+  title: "Ecommerce Cryptic",
+  meta: [{ name: "description", content: "Ecommerce Cryptic" }],
   htmlAttrs: {
     lang: "en",
   },
