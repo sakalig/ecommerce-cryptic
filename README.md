@@ -16,7 +16,7 @@ Inspired by Nuxt 3 & Shopware Frontends Framework.
 
 ## System Design
 
-# Backend
+### Backend
 
 - [ ] Agentic system [General Backend]
 - [ ] Recommender system [Backend]
