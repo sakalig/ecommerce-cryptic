@@ -25,6 +25,6 @@ provide("swNavigation-footer-navigation", footerData);
     <main class="mx-auto">
       <slot />
     </main>
-    <LayoutFooter />
+    <!-- <LayoutFooter /> -->
   </div>
 </template>
