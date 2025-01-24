@@ -38,7 +38,7 @@ For local testing, proceed to build as follows:
 pnpm build
 ```
 
-Given this particular build, expect an \`.output\` folder with the ready build.
+Given this particular build, expect an `.output` folder with the ready build.
 
 ```bash
 node .output/server/index.mjs
