@@ -31,6 +31,20 @@ Inspired by Nuxt 3 & Shopware Frontends Framework.
 nuxt prepare && nuxt dev
 ```
 
+### More on Testing
+
+For local testing, proceed to build as follows:
+```bash
+pnpm build
+```
+
+Given this particular build, expect an \`.output\` folder with the ready build.
+
+```bash
+node .output/server/index.mjs
+```
+To run the build locally
+
 <!--
 ## Requirements
 
