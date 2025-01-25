@@ -34,7 +34,7 @@
     "@biomejs/biome": "^1.9.4",
     "@iconify-json/carbon": "1.1.37",
     "@nuxtjs/i18n": "8.3.1",
-    "@shopware/api-gen": "canary",
+    "@shopware/api-gen": "0.0.0-canary-20250116102734",
     "eslint": "9.8.0",
     "eslint-config-prettier": "9.1.0",
     "eslint-plugin-vue": "9.27.0",
