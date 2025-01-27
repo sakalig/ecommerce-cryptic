@@ -29,7 +29,10 @@ async function invokeLogout() {
             data-testid="header-sign-in-link"
             @click="loginModalController.open"
           >
-            {{ $t("account.menu.signIn") }}
+            <!-- {{ $t("account.menu.signIn") }} -->
+            <div
+                class="w-7 h-7 i-carbon-user text-secondary-600 hover:text-primary"
+              />
           </button>
         </div>
         <SharedModal :controller="loginModalController">
