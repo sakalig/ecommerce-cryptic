@@ -18,12 +18,14 @@ Inspired by Nuxt 3 & Shopware Frontends Framework.
 
 ### Backend
 
-- [ ] Agentic system [General Backend]
-- [ ] Recommender system [Backend]
-- [ ] Dynamic cart system [Backend & User-side]
-- [ ] Authentication system [User-side]
-- [ ] Inventory system [Admin-side]
-- [ ] Currency system [Admin-side]
+- [ ] Recommender system
+- [ ] Dynamic cart system
+- [ ] Authentication system
+
+#### Breakdown
+##### Admin
+- [ ] Inventory system
+- [ ] Currency system
 
 ## Testing
 
